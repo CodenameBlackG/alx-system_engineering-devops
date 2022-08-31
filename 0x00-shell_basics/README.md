@@ -1,1 +1,1 @@
-Alx print absolute path
+script to show current dir
